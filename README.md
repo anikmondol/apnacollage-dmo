@@ -1,2 +1,4 @@
 # apnacollage-dmo
-this my first git repository
+This my first git repository
+<br>
+Author - Anik Mondol
